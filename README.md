@@ -22,7 +22,7 @@
 
 ### 🌟 Featured Projects
 
-1. [Device for Epilepsy Treatment](https://github.com/sergio-moldes/dispositivo-tratamiento-epilepsia)
+1. [Device for Epilepsy Treatment](https://github.com/sergio-moldes/dispositivo-epilepsia)
    - **Description**: Design and structural calculation of a device for epilepsy treatment using magnets.
    - **Technologies Used**: SolidWorks, CatiaV5, Hypermesh, ANSYS Mechanical, AutoCAD.
 

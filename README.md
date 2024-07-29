@@ -22,7 +22,7 @@
 
 ### 🌟 Featured Projects
 
-1. [Device for Epilepsy Treatment](https://github.com/sergio-moldes/dispositivo-epilepsia)
+1. [Device for Epilepsy Treatment](https://github.com/sergio-moldes/dispositivo-tratamiento-epilepsia)
    - **Description**: Design and structural calculation of a device for epilepsy treatment using magnets.
    - **Technologies Used**: SolidWorks, CatiaV5, Hypermesh, ANSYS Mechanical, AutoCAD.
 
@@ -33,6 +33,10 @@
 3. [Kaplan Turbine Design](https://github.com/sergio-moldes/turbina-kaplan)
    - **Description**: Design and analysis of a Kaplan turbine, including runner, distributor, draft tube, and spiral casing calculations.
    - **Technologies Used**: SolidWorks, ANSYS Fluent.
+
+4. [Blind Automation System](https://github.com/sergio-moldes/blind-automation-system)
+   - **Description**: Design and structural calculation of an automation system for blinds for domestic use.
+   - **Technologies Used**: SolidWorks, KISSsoft, AutoCAD.
 
 ### 🎓 Academic Background
 

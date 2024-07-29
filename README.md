@@ -30,7 +30,7 @@
    - **Description**: Design and structural calculation of a multi-function training structure for home use.
    - **Technologies Used**: SolidWorks, AutoCAD.
 
-3. [Kaplan Turbine Design](https://github.com/sergio-moldes/turbina-kaplan)
+3. [Kaplan Turbine Design](https://github.com/sergio-moldes/kaplan-turbine)
    - **Description**: Design and analysis of a Kaplan turbine, including runner, distributor, draft tube, and spiral casing calculations.
    - **Technologies Used**: SolidWorks, ANSYS Fluent.
 

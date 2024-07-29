@@ -47,7 +47,7 @@
 
 ### 💼 Professional Experience
 
-- **Associate Researcher** at CINTECX | Vigo | March 2023 - Present
+- **Associate Researcher at CINTECX | Vigo | March 2023 - Present**
   - Collaboration with BorgWarner in CFD analysis of heat exchangers.
   - Design and structural calculation of devices for epilepsy treatment.
   - Design and CFD analysis of heat exchangers for batteries.

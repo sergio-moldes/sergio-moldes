@@ -22,11 +22,11 @@
 
 ### 🌟 Featured Projects
 
-1. [Device for Epilepsy Treatment](https://github.com/sergio-moldes/dispositivo-epilepsia)
+1. [Device for Epilepsy Treatment](https://github.com/sergio-moldes/device-for-epilepsy-treatment)
    - **Description**: Design and structural calculation of a device for epilepsy treatment using magnets.
    - **Technologies Used**: SolidWorks, CatiaV5, Hypermesh, ANSYS Mechanical, AutoCAD.
 
-2. [Multi-Function Training Structure](https://github.com/sergio-moldes/entrenamiento-multifuncion)
+2. [Multi-Function Training Structure](https://github.com/sergio-moldes/multifunction-training-structure)
    - **Description**: Design and structural calculation of a multi-function training structure for home use.
    - **Technologies Used**: SolidWorks, AutoCAD.
 
